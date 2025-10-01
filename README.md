@@ -12,3 +12,5 @@
 🔗 Portfólio: https://markindev.tech  
 ✉️ Email: contato@markindev.tech  
 💼 LinkedIn: https://www.linkedin.com/in/marcosvfg/
+
+[![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosVFG)](https://github.com/MarcosVFG/github-readme-stats)
